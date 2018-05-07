@@ -1,0 +1,72 @@
+.container {
+  font-size: 70px;
+}
+body {
+  background-color: #808080;
+  margin: 0;
+}
+.textbox {
+  margin-left: 1px;
+  margin-top: 30px;
+}
+.headder {
+  background-color: #FAEBD7;
+  width: 100%
+}
+.footer {
+   position:fixed;
+   bottom:0;
+   width:100%;
+   left: 0;
+     
+   background:#FAEBD7;
+  }
+.text {
+  margin-right: 15px;
+}
+.icon {
+  padding-left: 20px;
+}
+.upplysingar12 {
+  margin-left: 2%;
+}
+.villa {
+  margin-left: 2%;
+}
+.villa1 {
+  margin-left: 2%;
+}
+.klessa {
+  margin-bottom: 10px;
+}
+h1 {
+  font-family: 'PT Sans', sans-serif;
+}
+.name {
+  font-family: 'Indie Flower', cursive;
+}
+.klessa2 {
+  margin-top: 5px;
+}
+.upp {
+  margin-bottom: 70px;
+}
+.upp2 {
+  margin-bottom: 120px;
+}
+.box-style {
+  height: 60px;
+  width: 250px;
+}
+.button-style {
+  height: 60px;
+}
+.img {
+  width: 400px;
+  height: 100px;
+  margin-bottom: 80px;
+  margin-top:10px;
+}
+.names {
+  padding-top: 10px;
+}
